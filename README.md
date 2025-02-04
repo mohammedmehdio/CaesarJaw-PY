@@ -16,8 +16,8 @@ This Python program provides functionality for encrypting and decrypting text us
 ### 📥 Clone the Repository
 To get started, clone the repository using Git:
 ```sh
-git clone https://github.com/mohammedmehdio/CeasarJaw-PY.git
-cd CeasarJaw-PY
+git clone https://github.com/mohammedmehdio/CaesarJaw-PY.git
+cd CaesarJaw-PY
 ```
 
 ### 🛠 Run the Program
